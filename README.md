@@ -1,6 +1,6 @@
 # IsoDyn
-A mechanistic model of stable isotope incorporation in animal tissues
-Support material of a submitted paper. A preprint was posted here
+A mechanistic model of stable isotope incorporation in animal tissues. 
+Support material of a submitted paper. A preprint was posted here: 
 https://biorxiv.org/cgi/content/short/2021.05.28.446143v1
 
 Three files can be used to produce results and can be run independently: 
